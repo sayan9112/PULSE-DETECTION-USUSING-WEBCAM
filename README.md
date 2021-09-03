@@ -5,14 +5,7 @@ webcam-pulse-detector
 
 ### - UPDATE: Now with Python 3.5+ and OpenCV 3.0+ support
 
-### Stand-alone (no dependancy) precompiled application:
 
- - Download for Windows 7 and 8: [webcam-pulse-detector_win.zip](http://sourceforge.net/projects/webcampulsedetector/files/webcam-pulse-detector_win.zip/download) (42 Mb) 
- - Download for Mac OSX 10.6 (and later): [webcam-pulse-detector_mac.zip](http://sourceforge.net/projects/webcampulsedetector/files/webcam-pulse-detector_mac.zip/download) (21 Mb)
- - Debian/Ubuntu/Mint Linux: Coming very soon. For now, it is recommended that you run from source on the `no_openmdao` branch if you just want to test things out.
-
-The application can be run by simply executing the binary contained in the zip file for your platform.
-This code can also be run from source by following the instructions below.
 
 ---------------------------------------
 
