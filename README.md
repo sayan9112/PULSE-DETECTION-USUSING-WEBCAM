@@ -1,6 +1,6 @@
 
 
-webcam-pulse-detector
+Automatic Realtime Webcam Based Heart Rate Monitoring System
 -----------------------
 
 ### Source: American Journal of Electronics & Communication, Volume 3, Number 1, July 2022, pp. 1-6(6)
