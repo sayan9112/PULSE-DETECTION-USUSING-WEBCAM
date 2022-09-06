@@ -3,7 +3,9 @@
 webcam-pulse-detector
 -----------------------
 
-### - UPDATE: Now with Python 3.5+ and OpenCV 3.0+ support
+### Source: American Journal of Electronics & Communication, Volume 3, Number 1, July 2022, pp. 1-6(6)
+### Publisher: Society for Makers, Artists, Researchers and Technologists
+### DOI: https://doi.org/10.15864/ajec.3101
 
 
 
